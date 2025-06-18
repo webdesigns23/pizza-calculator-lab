@@ -1,5 +1,10 @@
+# 1. Define the Problem:
 '''
-Pizza Order Pseudocode:
+Create a Python script named pizza_order_cost.py that calculates the total cost of a pizza order based on Pizza size, Number of toppings, Delivery distance.
+'''
+
+# 2. Design a Solution
+'''
 1. Start
 2. Prompt the user for inputs for pizza size, number of toppings, and delivery distance in miles.
 
@@ -34,8 +39,8 @@ Pizza Order Pseudocode:
 Challenge: What if Delivery Distance is 100 miles away?
 Will return, Invalid miles, please enter the number of miles to the destination (up to 20 miles).
 
-
 '''
+# 3. Implement the Solution
 
 # customer input pizza size, toppings, miles away
 customer_pizza_size = input("What size pizza would you like to order (small or large)?")
